@@ -1,0 +1,11 @@
+# The BaerOak website, published to https://baeroak.github.io by Tools/publish-site.sh.
+title: BaerOak
+description: Small, playful apps by BaerOak.
+email: baer.oak@gmail.com
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
