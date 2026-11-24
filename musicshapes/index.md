@@ -20,13 +20,9 @@ Questions, problems or ideas? Email [{{ site.email }}](mailto:{{ site.email }}).
 - Tap a shape to change its sound, colour, sides, tuning and mix. Tap one of its corner dots to mute that hit or change its volume or pitch.
 - The share button bounces your beat to a WAV file or a square video.
 
-## Music Shapes Pro
+## Price
 
-Pro is a one-time purchase, not a subscription. It adds unlimited shapes, melodic and FX sounds, recording and importing your own sounds, EQ, compressor, delay and reverb, pitch for every corner, 8-bar bounces, and videos without the "Made with Music Shapes" mark.
-
-**Restoring Pro** on a new device or after reinstalling: open any Pro feature, such as the EQ tab, and tap **Restore Purchases**. Use the same Apple Account you bought Pro with.
-
-**Refunds** are handled by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+Music Shapes is free, with every feature, no ads and no in-app purchases. Videos say "Made with Music Shapes" in the corner.
 
 ## Privacy
 
