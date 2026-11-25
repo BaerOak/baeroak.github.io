@@ -15,6 +15,10 @@ Small, playful apps.
     <img src="{{ '/stomme/icon.png' | relative_url }}" alt="">
     <div><strong>Stomme</strong><span>Your home, room by room.</span></div>
   </a>
+  <a class="app-card" href="{{ '/adayinalife/' | relative_url }}">
+    <img src="{{ '/adayinalife/icon.png' | relative_url }}" alt="">
+    <div><strong>A Day in a Life</strong><span>24 hours to complete your task.</span></div>
+  </a>
 </div>
 
 Questions or ideas? Email [{{ site.email }}](mailto:{{ site.email }}).
