@@ -1,4 +1,5 @@
-# The BaerOak website, published to https://baeroak.github.io by Tools/publish-site.sh.
+# The BaerOak website: the front page and a folder per app (musicshapes/, stomme/). Edited here;
+# every push to main publishes it to https://baeroak.github.io (~/Developer/BaerOak/BAEROAK.md).
 title: BaerOak
 description: Small, playful apps by BaerOak.
 email: baer.oak@gmail.com
